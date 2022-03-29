@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Nrtworks
 - 💞️ I’m looking to collaborate on Cyber Security
 - 📫 Can mail at - cs.a.sarkar@gmail.com 
-- I am trying to have a series of 
 
 <!---
 Neil-Azax/Neil-Azax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
